@@ -1,0 +1,5 @@
+{
+  "name": "Calorify",
+  "description": "AI-powered calorie tracking app that analyzes food photos to estimate nutritional value and track fitness goals.",
+  "requestFramePermissions": ["camera"]
+}
